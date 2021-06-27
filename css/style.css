@@ -467,8 +467,12 @@ hr {
 
 .about-left img {
     width: 85%;
+    opacity: 0.7;
+    transition: 0.5s all ease-in;
 }
-
+.about-left img:hover {
+    opacity: 1;
+}
 .about-right h2 {
     font-weight: bold;
     font-size: 1.4rem;

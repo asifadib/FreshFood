@@ -116,6 +116,9 @@
         flex-direction: column;
         padding: 0 1.2rem;
     }
+    .sub-img img {
+        margin-bottom: 2rem;
+    } 
     .contact {
         flex-direction: column;
     }
